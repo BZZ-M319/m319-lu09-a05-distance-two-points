@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test_calculate_distance",
+    "function": "test_calculate_distance",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main",
+    "function": "test_main",
+    "timeout": 10,
+    "points": 1
+  }
+]
